@@ -1,0 +1,15 @@
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\bin\Debug\netcoreapp3.1\Get_Temperature.exe
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\bin\Debug\netcoreapp3.1\Get_Temperature.deps.json
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\bin\Debug\netcoreapp3.1\Get_Temperature.runtimeconfig.json
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\bin\Debug\netcoreapp3.1\Get_Temperature.runtimeconfig.dev.json
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\bin\Debug\netcoreapp3.1\Get_Temperature.dll
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\bin\Debug\netcoreapp3.1\Get_Temperature.pdb
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\obj\Debug\netcoreapp3.1\Get_Temperature.csprojAssemblyReference.cache
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\obj\Debug\netcoreapp3.1\Get_Temperature.AssemblyInfoInputs.cache
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\obj\Debug\netcoreapp3.1\Get_Temperature.AssemblyInfo.cs
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\obj\Debug\netcoreapp3.1\Get_Temperature.csproj.CoreCompileInputs.cache
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\obj\Debug\netcoreapp3.1\Get_Temperature.csproj.CopyComplete
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\obj\Debug\netcoreapp3.1\Get_Temperature.dll
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\obj\Debug\netcoreapp3.1\Get_Temperature.pdb
+C:\Users\Yuliia\source\repos\Get_Temperature\Get_Temperature\obj\Debug\netcoreapp3.1\Get_Temperature.genruntimeconfig.cache

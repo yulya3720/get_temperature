@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJwAfunMcN9LkXeDD/m164MZjde+ibBW7YMKwXH3Iohop/LjW3w/Us+Rrl2gxUU+eb7Zete2E+/CDq66WMAWuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yuliia\\source\\repos\\Get_Temperature\\Get_Temperature\\Get_Temperature.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yuliia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
